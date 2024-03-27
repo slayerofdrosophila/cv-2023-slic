@@ -11,4 +11,4 @@ Output will appear as `slic_output.png`
 
 `python3 skimage_slic.py /PATH/TO/IMAGE`
 
-Output will apear as "skimage_segments.png"# cv-2023-slic
+Output will apear as `skimage_segments.png`
